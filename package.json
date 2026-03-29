@@ -1,0 +1,16 @@
+{
+  "name": "print-profit-toolkit",
+  "version": "1.0.0",
+  "description": "Print-on-demand profit calculator and product validator",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": ["print-on-demand", "profit", "calculator", "saas"],
+  "author": "charmallan-dot",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/node": "^3.0.0"
+  }
+}
